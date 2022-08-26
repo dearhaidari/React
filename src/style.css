@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    top: 0;
+}
+.container{
+    display: flex;
+    
+
+}
+.link{
+    background-color: black;
+    color: white;
+    height: 100vh;
+    padding: 30px 30px 0 10px;
+    
+
+}
+
+.link li{
+    margin-bottom: 15px;
+    color: white;
+}
+.image{
+    text-align: center;
+    margin-top: 60px;
+ 
+}
+
+.image img{
+    height: 300px;
+    width: 300px;
+}
+.rightbar{
+    background-color: antiquewhite;
+  
+}
+
+.post{
+    margin: 30px;
+    text-align: center;
+    font-size: 1.1rem;
+}

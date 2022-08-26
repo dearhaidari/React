@@ -1,0 +1,50 @@
+{
+    "posts": [
+      { "id": 0, 
+      "title": "shinger", 
+      "author": "typicode",
+      "text":"0 of Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci reiciendis assumenda incidunt quidem quibusdam quos, autem corrupti doloremque laborum doloribus sequi amet voluptatum nihil ipsum, voluptatem dolores minima pariatur vitae.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis sunt incidunt blanditiis magnam cumque amet qui beatae assumenda consequatur, modi corporis cum optio! Facere temporibus dolore odio provident praesentium fuga",
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIRyMpCY1M0sLMFFvGPODkFYTgDEWze2SrxB5VWiOA&s"     
+    },
+      { "id": 1, 
+        "title": "finger", 
+        "author": "typicode",
+        "text":"1 of Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci reiciendis assumenda incidunt quidem quibusdam quos, autem corrupti doloremque laborum doloribus sequi amet voluptatum nihil ipsum, voluptatem dolores minima pariatur vitae.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis sunt incidunt blanditiis magnam cumque amet qui beatae assumenda consequatur, modi corporis cum optio! Facere temporibus dolore odio provident praesentium fuga",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIRyMpCY1M0sLMFFvGPODkFYTgDEWze2SrxB5VWiOA&s"     
+      },
+      { "id": 2, 
+      "title": "singer", 
+      "author": "typicode",
+      "text":"2 of Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci reiciendis assumenda incidunt quidem quibusdam quos, autem corrupti doloremque laborum doloribus sequi amet voluptatum nihil ipsum, voluptatem dolores minima pariatur vitae.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis sunt incidunt blanditiis magnam cumque amet qui beatae assumenda consequatur, modi corporis cum optio! Facere temporibus dolore odio provident praesentium fuga",
+      "image":"https://cdn.pixabay.com/photo/2015/12/01/20/28/road-1072823__340.jpg"     
+    },
+    { "id": 3, 
+    "title": "pinger", 
+    "author": "typicode",
+    "text":"3 of Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci reiciendis assumenda incidunt quidem quibusdam quos, autem corrupti doloremque laborum doloribus sequi amet voluptatum nihil ipsum, voluptatem dolores minima pariatur vitae.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis sunt incidunt blanditiis magnam cumque amet qui beatae assumenda consequatur, modi corporis cum optio! Facere temporibus dolore odio provident praesentium fuga",
+    "image":"https://thehappyjetlagger.com/wp-content/uploads/elementor/thumbs/img_1194-pqvxlvfkjd6sapawtk5400r0ev6dshbv6ieauc3e7k.jpg"     
+  },
+  { "id": 4, 
+  "title": "Detschland", 
+  "author": "typicode",
+  "text":"4 of Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci reiciendis assumenda incidunt quidem quibusdam quos, autem corrupti doloremque laborum doloribus sequi amet voluptatum nihil ipsum, voluptatem dolores minima pariatur vitae.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis sunt incidunt blanditiis magnam cumque amet qui beatae assumenda consequatur, modi corporis cum optio! Facere temporibus dolore odio provident praesentium fuga",
+  "image":"https://thumbs.dreamstime.com/b/luxury-house-beautiful-landscaping-sunny-day-home-exterior-design-77824151.jpg"     
+}, { "id": 5, 
+"title": "home", 
+"author": "typicode",
+"text":"5 of Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci reiciendis assumenda incidunt quidem quibusdam quos, autem corrupti doloremque laborum doloribus sequi amet voluptatum nihil ipsum, voluptatem dolores minima pariatur vitae.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis sunt incidunt blanditiis magnam cumque amet qui beatae assumenda consequatur, modi corporis cum optio! Facere temporibus dolore odio provident praesentium fuga",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIRyMpCY1M0sLMFFvGPODkFYTgDEWze2SrxB5VWiOA&s"     
+}
+    ],
+
+
+    
+    "comments": [
+      { "id": 0, "body": "0 some comment", "post-Id": 0 },
+      { "id": 1, "body": "1 some comment", "post-Id": 1 },
+      { "id": 2, "body": "2 some comment", "post-Id": 2 },
+      { "id": 3, "body": "3 some comment", "post-Id": 3 },
+      { "id": 4, "body": "4 some comment", "post-Id": 4 },
+      { "id": 5, "body": "5 some comment", "post-Id": 5 }
+    ]
+  }
